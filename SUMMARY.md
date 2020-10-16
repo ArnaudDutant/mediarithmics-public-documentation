@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Home](README.md)
+* [What are automations?](README.md)
 
