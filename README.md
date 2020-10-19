@@ -1,4 +1,6 @@
-# Welcome to the Mediarithmics documentation
+# Welcome!
+
+Welcome to the Mediarithmics automation documentation.
 
 Here you will learn how to make the most of the Mediarithmics and its features.
 
