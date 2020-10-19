@@ -15,7 +15,4 @@ gulp.task("gitbook-commit", () => {
     );
 });
 
-gulp.task("publish", () => {
-    console.log("Publish Gitbook (_book) to Github Pages");
-    return gulp.series("gitbook-build");
-});
+gulp.task("publish", gulp.series(["gitbook-build", "gitbook-commit"]));
