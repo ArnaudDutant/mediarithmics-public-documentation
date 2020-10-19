@@ -1,10 +1,9 @@
 {
-    "plugins": [
-      "header"
-    ],
-    "pluginsConfig": {
-      "layout": {
-        "headerPath" : "layouts/header.html"
-      }
+    "plugins": ["styles-less", "-sharing", "-fontsettings"],
+    "variables": {
+        "logoUrl": "assets/mics-small.png"
+    },
+    "styles": {
+        "website": "./styles/website.less"
     }
-  }
+}
