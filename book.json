@@ -1,7 +1,7 @@
 {
     "plugins": ["styles-less", "-sharing", "-fontsettings"],
     "variables": {
-        "logoUrl": "/assets/mics-small.png"
+        "logoUrl": "/mediarithmics-public-documentation/assets/mics-small.png"
     },
     "styles": {
         "website": "./styles/website.less"
