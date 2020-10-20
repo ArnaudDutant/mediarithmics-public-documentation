@@ -5,7 +5,7 @@
 ## Automations
 
 * [What are automations?](automations/what-are-automations.md)
-* [The key component of an automation](automations/the-key-component-of-an-automation/README.md)
+* [The key components of an automation](automations/the-key-component-of-an-automation/README.md)
   * [Triggers](automations/the-key-component-of-an-automation/triggers/README.md)
     * [React to an event](automations/the-key-component-of-an-automation/triggers/react-to-an-event.md)
     * [On segment entry](automations/the-key-component-of-an-automation/triggers/on-segment-entry.md)
