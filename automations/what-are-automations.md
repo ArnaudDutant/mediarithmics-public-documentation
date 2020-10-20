@@ -12,3 +12,7 @@ Sure, you could manually extract a list of customers everyday and input that lis
 
 It would be really great if every time a customer adds a product to the cart, an automatic trigger would send an email if eventually there is no purchase. In a nutshell, that's what automation is about.
 
+You can find automations in the Automations menu item on the left of your screen.
+
+![](../.gitbook/assets/image.png)
+
