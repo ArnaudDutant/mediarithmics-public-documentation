@@ -4,5 +4,5 @@ If you choose "On segment entry" as the trigger for your automation, the automat
 
 The configuration will allow you to specify which segment should trigger this automation:
 
-![](../../../.gitbook/assets/image%20%284%29.png)
+![](../../../.gitbook/assets/image%20%289%29.png)
 

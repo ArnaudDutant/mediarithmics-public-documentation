@@ -2,7 +2,7 @@
 
 Actions are just what they mean: actions. You can find the list of actions in the Automation Components drawer on the right side of the builder.
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%282%29.png)
 
 Simply drag and drop the action you want to add in the path of your automation.
 
