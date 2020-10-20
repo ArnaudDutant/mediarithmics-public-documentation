@@ -11,6 +11,9 @@
     * [On segment entry](automations/the-key-component-of-an-automation/triggers/on-segment-entry.md)
     * [On segment exit](automations/the-key-component-of-an-automation/triggers/on-segment-exit.md)
   * [Actions](automations/the-key-component-of-an-automation/actions.md)
-  * [Flow control](automations/the-key-component-of-an-automation/flow-control.md)
+  * [Flow control](automations/the-key-component-of-an-automation/flow-control/README.md)
+    * [Split](automations/the-key-component-of-an-automation/flow-control/split.md)
+    * [Wait](automations/the-key-component-of-an-automation/flow-control/wait.md)
+    * [If](automations/the-key-component-of-an-automation/flow-control/if.md)
   * [Exit conditions](automations/the-key-component-of-an-automation/exit-conditions.md)
 

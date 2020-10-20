@@ -4,6 +4,6 @@ Here you will learn about the key components of an automation:
 
 * [Triggers](triggers/)
 * [Actions](actions.md)
-* [Flow control](flow-control.md)
+* [Flow control](flow-control/)
 * [Exit conditions](exit-conditions.md)
 
