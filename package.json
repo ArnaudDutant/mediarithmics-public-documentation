@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ArnaudDutant/mediarithmics-public-documentation#readme",
   "dependencies": {
+    "gitbook-plugin-custom-favicon": "0.0.4",
     "gitbook-plugin-styles-less": "^1.0.0",
     "gulp": "^4.0.2",
     "gulp-gh-pages": "^0.5.4",
