@@ -7,7 +7,7 @@ const $ = gulpLoadPlugins();
 gulp.task("gitbook-build", run("gitbook build --gitbook=3.2.3"));
 
 gulp.task("gitbook-commit", () => {
-    return gulp.src(["./_book/**/*", "./_book/.*"], {dot: true}).pipe(
+    return gulp.src(["./_book/**/*"], {dot: true}).pipe(
         $.ghPages({
             origin: "origin",
             branch: "gh-pages",
