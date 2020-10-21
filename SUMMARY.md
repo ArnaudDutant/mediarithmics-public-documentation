@@ -16,6 +16,5 @@
     * [Wait](automations/the-key-component-of-an-automation/flow-control/wait.md)
     * [If](automations/the-key-component-of-an-automation/flow-control/if.md)
   * [Exit conditions](automations/the-key-component-of-an-automation/exit-conditions.md)
-
-* [Lifecycle of an automation](lifecycle-of-an-automation.md)
+* [Lifecycle of an automation](automations/lifecycle-of-an-automation.md)
 
