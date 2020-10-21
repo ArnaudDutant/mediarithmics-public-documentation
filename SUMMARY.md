@@ -4,8 +4,7 @@
 
 ## Automations
 
-* [What are automations?](automations/what-are-automations/README.md)
-  * [Automation type 1](automations/what-are-automations/automation-type-1.md)
+* [What are automations?](automations/what-are-automations.md)
 * [The key components of an automation](automations/the-key-component-of-an-automation/README.md)
   * [Triggers](automations/the-key-component-of-an-automation/triggers/README.md)
     * [React to an event](automations/the-key-component-of-an-automation/triggers/react-to-an-event.md)

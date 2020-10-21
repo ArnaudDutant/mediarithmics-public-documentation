@@ -14,5 +14,5 @@ It would be really great if every time a customer adds a product to the cart, an
 
 You can find automations in the Automations menu item on the left of your screen.
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
