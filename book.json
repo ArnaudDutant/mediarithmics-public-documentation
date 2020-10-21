@@ -1,14 +1,9 @@
 {
-    "plugins": ["styles-less", "-sharing", "-fontsettings", "custom-favicon", "collapsible-menu", "assets-public-path"],
+    "plugins": ["styles-less", "-sharing", "-fontsettings", "custom-favicon", "collapsible-menu", "custom-logo"],
     "pluginsConfig" : {
         "favicon": "assets/favicon.ico",
-        "assets-public-path": {
-            "publicPath": "/.gitbook/assets"
-        }
+        "logo": "assets/mics-small.png"
 	},
-    "variables": {
-        "logoUrl": "assets/mics-small.png"
-    },
     "styles": {
         "website": "./styles/website.less"
     }
