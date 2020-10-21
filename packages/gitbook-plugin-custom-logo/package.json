@@ -1,0 +1,9 @@
+{
+  "description": "adds your logo to gitbook",
+  "main": "index.js",
+  "name": "gitbook-plugin-custom-logo",
+  "version": "0.0.1",
+  "engines": {
+    "gitbook": "*"
+  }
+}
