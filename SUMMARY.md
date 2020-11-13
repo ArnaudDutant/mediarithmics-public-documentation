@@ -2,6 +2,12 @@
 
 * [Welcome!](README.md)
 
+## Segment builder
+
+* [What is a schema?](segment-builder/what-is-a-data-schema.md)
+* [What can be done with the segment builder?](segment-builder/what-can-be-done-with-the-segment-builder.md)
+* [FAQ](segment-builder/faq.md)
+
 ## Automations
 
 * [What are automations?](automations/what-are-automations.md)
@@ -18,10 +24,4 @@
     * [If](automations/the-key-component-of-an-automation/flow-control/if.md)
   * [Exit conditions](automations/the-key-component-of-an-automation/exit-conditions.md)
 * [Lifecycle of an automation](automations/lifecycle-of-an-automation.md)
-
-## Segment builder
-
-* [What is a data schema?](segment-builder/what-is-a-data-schema.md)
-* [What can be done with the segment builder?](segment-builder/what-can-be-done-with-the-segment-builder.md)
-* [FAQ](segment-builder/faq.md)
 

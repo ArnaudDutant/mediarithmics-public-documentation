@@ -1,4 +1,4 @@
-# What is a data schema?
+# What is a schema?
 
 The schema defines the model according which your data is stored and queried :
 
