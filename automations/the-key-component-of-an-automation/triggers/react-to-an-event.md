@@ -8,5 +8,5 @@ The configuration will allow you to specify which events should trigger this aut
 
 In the Advanced view, you can also add field conditions, for instance if you want to trigger your automation only with events taking place after a certain date, ...
 
-![](../../../.gitbook/assets/capture-de-cran-2020-10-21-a-11.21.26.png)
+![](../../../.gitbook/assets/capture-de-cran-2020-11-13-a-11.29.42%20%281%29.png)
 
