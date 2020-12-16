@@ -2,7 +2,7 @@
 
 Flow control components let you alter the natural flow of an automation. You can find the list of flow control components in the Automation Components drawer on the right side of the builder.
 
-![](../../../.gitbook/assets/image%20%285%29.png)
+![](../../../.gitbook/assets/image%20%2833%29.png)
 
 Simply drag and drop the component you want to add in the path of your automation.
 

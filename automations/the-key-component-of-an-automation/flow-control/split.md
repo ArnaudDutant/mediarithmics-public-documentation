@@ -8,5 +8,5 @@ For instance, if you choose to divide your flow into 2 branches, then 1 out of 2
 
 You can configure the number of branches you want to split your flow into. The flow will be split in equal proportions.
 
-![](../../../.gitbook/assets/image%20%2818%29.png)
+![](../../../.gitbook/assets/image%20%2829%29.png)
 

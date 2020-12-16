@@ -23,5 +23,6 @@
     * [If](automations/the-key-component-of-an-automation/flow-control/if.md)
   * [Exit conditions](automations/the-key-component-of-an-automation/exit-conditions.md)
 * [Lifecycle of an automation](automations/lifecycle-of-an-automation.md)
+* [Testing an automation](automations/testing-an-automation.md)
 * [Example](automations/what-is-a-scenario.md)
 
