@@ -1,20 +1,21 @@
-# What is a scenario?
+# Example
 
-A scenario is a set of additional marketing or advertising actions which are linked together according to conditional rules and which aim to achieve a marketing objective**.**
+Let’s consider the following use case:
 
-In mediarithmics, automation consists in making users enter a scenario based on a specific trigger \(eg: has seen the new Apple phone\). Specific conditions can be added in order to create more complex scenario. A scenario is always programmed to have an exit condition in order to make people leave the scenario when their behaviour do not match anymore the scenario they initially entered.
+Cadabra Inc is a major online retailer. They have noticed that a lot of their users stop their navigation after adding items to their carts, and would like to try and have them complete their purchases.
 
-Let’s imagine a retailer that wants to create the following scenario: send an email communication to potential customers who have added products to their basket but have not yet completed the transaction in 2 hours following the basket creation:
+Basically, the automation should do the following:
 
-* the retailer has to configure the trigger that will make users enter the automation scenario
-* the retailer can add a waiting condition of “2 hours”
-* the retailer will add an action node in order to configure the action needed by the scenario, in this case “Send email
-* the retailer will add an exit automation to finish the scenario
+* add to the automation users who have added an item to their cart
+* wait a few hours \(let's say 2\) in case these users complete their order. If they do, then these users should exit the scenario before the next action
+* send these users a reminder email, or an email with a promotion code, in order to entice them into completing their order
 
-Ex: translation of the previous scenario in the mediarithmics platform:
+Here is how we will do this with automations:
 
 ![](https://lh3.googleusercontent.com/GT0-ryyqq2QAYxH1QSPFmpAR3cvPEoi5cn-WPZWIqSxoJffIhcNdNr3wKrhWNAowiJmj1ro2b9j9MWvtVpkgf3ph2XDQQrui3Qbr6MviqIWy1-k_Ymk8zLEi90-pdYrGVG6-1RaZ)
 
-  
-
+* Entry into the automation is triggered by a "$basket\_view" event
+* Wait node is configured to 2 hours
+* Send email node is configured to send a reminder email
+* An exit condition is configured to make users leave the automation if a "$transaction\_confirmed" event is received
 
