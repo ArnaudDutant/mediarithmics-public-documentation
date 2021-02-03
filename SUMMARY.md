@@ -4,7 +4,7 @@
 
 ## Monitoring
 
-* [Introduction](monitoring/introduction-to-the-monitoring-view.md)
+* [Monitoring introduction](monitoring/introduction-to-the-monitoring-view.md)
 * [User Look Up](monitoring/user-look-up.md)
 
 ## Segment builder
@@ -12,6 +12,16 @@
 * [What is a schema?](segment-builder/what-is-a-data-schema.md)
 * [What can be done with the segment builder?](segment-builder/what-can-be-done-with-the-segment-builder.md)
 * [FAQ](segment-builder/faq.md)
+
+## Segments
+
+* [What is a segment?](segments/what-is-a-segment.md)
+* [Segments panel introduction](segments/segments-panel-introduction.md)
+* [User list segment](segments/user-list-segment.md)
+* [User query segment](segments/user-query-segment.md)
+* [User lookalike segment](segments/user-lookalike-segment.md)
+* [User partition segment](segments/user-partition-segment.md)
+* [User activation segment](segments/user-activation-segment.md)
 
 ## Automations
 

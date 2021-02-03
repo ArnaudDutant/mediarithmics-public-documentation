@@ -17,7 +17,7 @@ The indexed schema is displayed under the segment builder section on the right h
 
 You can explore the schema by clicking on various objects
 
-![](../.gitbook/assets/image%20%2837%29.png)
+![](../.gitbook/assets/image%20%2838%29.png)
 
 Next let us see what you can build with the segment builder!
 

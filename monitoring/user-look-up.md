@@ -10,5 +10,5 @@ Only User Points and User Identifiers can be query.
 You can find more about User Point, User Identifiers and data reconciliation concepts in[ this section](https://app.gitbook.com/@mediarithmics/s/developer-guide/getting-started/user-points).
 {% endhint %}
 
-![](../.gitbook/assets/image%20%2839%29.png)
+![](../.gitbook/assets/image%20%2840%29.png)
 

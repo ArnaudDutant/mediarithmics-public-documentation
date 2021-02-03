@@ -1,4 +1,4 @@
-# Introduction
+# Monitoring introduction
 
 The monitoring view allows you to get the view of your User Point, User Identifiers and data that is collected in mediarithmics.
 
