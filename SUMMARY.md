@@ -2,6 +2,11 @@
 
 * [Welcome!](README.md)
 
+## Monitoring
+
+* [Introduction to the monitoring view](monitoring/introduction-to-the-monitoring-view.md)
+* [What is a User Point?](monitoring/userpoint.md)
+
 ## Segment builder
 
 * [What is a schema?](segment-builder/what-is-a-data-schema.md)
