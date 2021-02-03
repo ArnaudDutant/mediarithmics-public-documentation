@@ -4,8 +4,8 @@
 
 ## Monitoring
 
-* [Introduction to the monitoring view](monitoring/introduction-to-the-monitoring-view.md)
-* [What is a User Point?](monitoring/userpoint.md)
+* [Introduction](monitoring/introduction-to-the-monitoring-view.md)
+* [User Look Up](monitoring/user-look-up.md)
 
 ## Segment builder
 
