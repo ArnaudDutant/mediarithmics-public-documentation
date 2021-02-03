@@ -54,7 +54,7 @@ These group conditions can be modified to include, exclude and manage “and” 
 
 
 
-**3. Actualize audience stats and validate your audience**
+**3. Refresh audience stats and validate your audience**
 
 ![](https://lh6.googleusercontent.com/ScCworaVSX6ny-EjcIjoWzA_-U2VQlHepquNj0oQ0XB2Bl968SWZc2_GErNpmhyt6tbYSXb4vUQdRoTpxaZDsi_nLOWZd6FbPPZnsTrymfVJPnYUFdM0q0VuZ0zCqA)
 

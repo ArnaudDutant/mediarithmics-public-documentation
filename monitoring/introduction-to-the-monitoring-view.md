@@ -3,7 +3,7 @@
 The monitoring view allows you to get the view of your User Point, User Identifiers and data that is collected in mediarithmics.
 
 {% hint style="info" %}
-You can find more about User Point, User Identifiers and data reconciliation concepts on[ this section](https://app.gitbook.com/@mediarithmics/s/developer-guide/getting-started/user-points).
+You can find more about User Point, User Identifiers and data reconciliation concepts in[ this section](https://app.gitbook.com/@mediarithmics/s/developer-guide/getting-started/user-points).
 {% endhint %}
 
 Below is a description of each section of the monitoring view.

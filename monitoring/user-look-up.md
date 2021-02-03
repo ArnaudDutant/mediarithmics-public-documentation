@@ -6,5 +6,9 @@ You can query a User Point monitoring view by using the "User Look Up" feature a
 
 Only User Points and User Identifiers can be query. 
 
-![](../.gitbook/assets/image%20%2837%29.png)
+{% hint style="info" %}
+You can find more about User Point, User Identifiers and data reconciliation concepts in[ this section](https://app.gitbook.com/@mediarithmics/s/developer-guide/getting-started/user-points).
+{% endhint %}
+
+![](../.gitbook/assets/image%20%2839%29.png)
 
