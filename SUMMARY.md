@@ -21,6 +21,7 @@
   * [User list segment](segments/what-is-a-segment/user-list-segment.md)
   * [User partition segment](segments/what-is-a-segment/user-partition-segment.md)
   * [User lookalike segment](segments/what-is-a-segment/user-lookalike-segment.md)
+* [Deep dive on segment screen](segments/deep-dive-on-segment-screen.md)
 * [How to edit a segment?](segments/how-to-edit-a-segment.md)
 * [Segments panel introduction](segments/segments-panel-introduction.md)
 * [How to manage labels for your segments?](segments/how-to-create-label.md)
