@@ -4,7 +4,7 @@
 
 You have the opportunity to edit all the segment you created anytime. You just need to keep in mind that, the method you used to create your segment will be the only method you can use to edit it. For example, if you or someone of your team created a segment using the query tool, you will need to use OTQL to edit it.
 
-## Which use cases ?
+## For what use cases ?
 
 * Optimizing your segment, increasing the UserPoint volume
 * Edit dates of the query
