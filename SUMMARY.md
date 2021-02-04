@@ -31,7 +31,7 @@
 * [How to create a feed on a segment?](audience-feeds-1/how-to-create-a-feed-on-a-segment.md)
 * [Presets management](audience-feeds-1/presets-management.md)
 * [Feed configuration](audience-feeds-1/feed-configuration/README.md)
-  * [Google DV360](audience-feeds-1/feed-configuration/untitled.md)
+  * [Google Display Products](audience-feeds-1/feed-configuration/untitled.md)
   * [Google Ads](audience-feeds-1/feed-configuration/google-ads.md)
   * [Facebook](audience-feeds-1/feed-configuration/facebook.md)
   * [Criteo](audience-feeds-1/feed-configuration/criteo.md)

@@ -1,4 +1,4 @@
-# Google DV360
+# Google Display Products
 
 ### Authorization
 
