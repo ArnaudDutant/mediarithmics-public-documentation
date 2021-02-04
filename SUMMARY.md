@@ -17,7 +17,7 @@
 
 * [What is a segment?](segments/what-is-a-segment.md)
 * [Segments panel introduction](segments/segments-panel-introduction.md)
-* [How to create label](segments/how-to-create-label.md)
+* [How to manage labels for your segments?](segments/how-to-create-label.md)
 * [User list segment](segments/user-list-segment.md)
 * [User query segment](segments/user-query-segment.md)
 * [User lookalike segment](segments/user-lookalike-segment.md)
