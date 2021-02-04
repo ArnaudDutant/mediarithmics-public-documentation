@@ -25,6 +25,12 @@
 * [Segments panel introduction](segments/segments-panel-introduction.md)
 * [How to manage labels for your segments?](segments/how-to-create-label.md)
 
+## Audience feeds <a id="audience-feeds-1"></a>
+
+* [Audience feeds introduction](audience-feeds-1/audience-feeds-introduction.md)
+* [How to create a feed on a segment?](audience-feeds-1/how-to-create-a-feed-on-a-segment.md)
+* [Untitled](audience-feeds-1/untitled.md)
+
 ## Automations
 
 * [What are automations?](automations/what-are-automations.md)
