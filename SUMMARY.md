@@ -11,7 +11,7 @@
 
 * [What is a schema?](segment-builder/what-is-a-data-schema.md)
 * [What can be done with the segment builder?](segment-builder/what-can-be-done-with-the-segment-builder.md)
-* [FAQ](segment-builder/faq.md)
+* [FAQ on segment builder](segment-builder/faq.md)
 
 ## Segments
 
