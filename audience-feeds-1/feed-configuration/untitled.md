@@ -9,7 +9,7 @@ To whitelist mediarithmics in all of your Google accounts, you will need to prov
 * Your Account ID
 * Google Product name \(e.g. DBM, DFP, Adwords… \)
 
-Configuration
+### Configuration
 
 Select the Google DDP audience feed
 
