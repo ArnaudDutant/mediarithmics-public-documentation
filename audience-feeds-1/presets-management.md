@@ -14,7 +14,7 @@ To avoid creating every-time the same configuration for a feed, you can create p
 
 These presets will be available at the top of your feed creation.
 
-### How to create a preset ? 
+### How to create a preset ?
 
 Step 1 : you need to make sure you are an admin user of the platform. You are an admin if you can see the following screen when you are in a random segment and then you click on “Add a feed” :
 
