@@ -4,7 +4,7 @@
 
 On navigator, click on your settings
 
-![](../.gitbook/assets/image%20%2857%29.png)
+![](../.gitbook/assets/image%20%2859%29.png)
 
 Click on "Organisations" and "Labels"
 
@@ -12,7 +12,7 @@ Click on "Organisations" and "Labels"
 
 You can click on "New Label" to create one 
 
-![](../.gitbook/assets/image%20%2853%29.png)
+![](../.gitbook/assets/image%20%2855%29.png)
 
 Enter a label and save it
 
@@ -20,7 +20,7 @@ Enter a label and save it
 
 It will appear at the end of your current list
 
-![](../.gitbook/assets/image%20%2856%29.png)
+![](../.gitbook/assets/image%20%2858%29.png)
 
 ## Edit a label
 
@@ -30,11 +30,11 @@ You can edit a label at the end of the label row by clicking on the drop-down li
 
 Then you can change it directly with the same menu
 
-![](../.gitbook/assets/image%20%2855%29.png)
+![](../.gitbook/assets/image%20%2857%29.png)
 
 It will be updated directly in your list
 
-![](../.gitbook/assets/image%20%2851%29.png)
+![](../.gitbook/assets/image%20%2853%29.png)
 
 ## Archive a label
 
