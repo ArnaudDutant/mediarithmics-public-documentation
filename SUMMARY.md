@@ -15,14 +15,15 @@
 
 ## Segments
 
-* [What is a segment?](segments/what-is-a-segment.md)
+* [What is a segment?](segments/what-is-a-segment/README.md)
+  * [User query segment](segments/what-is-a-segment/user-query-segment.md)
+  * [User activation segment](segments/what-is-a-segment/user-activation-segment.md)
+  * [User list segment](segments/what-is-a-segment/user-list-segment.md)
+  * [User partition segment](segments/what-is-a-segment/user-partition-segment.md)
+  * [User lookalike segment](segments/what-is-a-segment/user-lookalike-segment.md)
+* [How to edit a segment?](segments/how-to-edit-a-segment.md)
 * [Segments panel introduction](segments/segments-panel-introduction.md)
 * [How to manage labels for your segments?](segments/how-to-create-label.md)
-* [User list segment](segments/user-list-segment.md)
-* [User query segment](segments/user-query-segment.md)
-* [User lookalike segment](segments/user-lookalike-segment.md)
-* [User partition segment](segments/user-partition-segment.md)
-* [User activation segment](segments/user-activation-segment.md)
 
 ## Automations
 
